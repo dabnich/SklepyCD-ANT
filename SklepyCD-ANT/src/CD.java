@@ -22,7 +22,6 @@ public class CD {
 	}
 	
 	
-	
 	public void wyswietlCD(){
 		System.out.println("Tytul: "+tytul+"\tWykonawca: " +wykonawca+"\tRodzaj: "+styl+"\tRok wydania: "+rok+"\tCena: " +cena);
 	}
